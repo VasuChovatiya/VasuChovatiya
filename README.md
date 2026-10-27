@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,100:0D96F6&height=140&section=header&text=Vasu%20Chovatiya&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=iOS%20Developer%20%C2%B7%20Swift%20%26%20SwiftUI&descAlignY=60&descSize=18" width="100%" alt="Vasu Chovatiya, iOS Developer" />
+<img src="assets/header.svg" width="100%" alt="Vasu Chovatiya, iOS Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0D96F6&center=true&vCenter=true&width=620&lines=4%2B+years+building+iPhone%2C+iPad+%26+Mac+apps;15%2B+apps+shipped+to+the+App+Store;One+app+with+5M%2B+downloads+and+4.8%E2%98%85;SwiftUI+%C2%B7+UIKit+%C2%B7+Swift+Concurrency+%C2%B7+StoreKit+2" alt="4+ years building iPhone, iPad and Mac apps. 15+ apps shipped to the App Store." />
 
@@ -95,5 +95,5 @@ struct Vasu {
 I'm happy to talk about iOS apps, SwiftUI or freelance work. Message me on [LinkedIn](https://www.linkedin.com/in/vasu-chovatiya) or by [email](mailto:vasuchovatiya87@gmail.com).
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:F05138&height=90&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 </div>

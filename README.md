@@ -56,6 +56,7 @@ struct Vasu {
 | [**Filmy**](https://github.com/VasuChovatiya/Filmy) | TMDB movie browser in SwiftUI: infinite scrolling, debounced search, trailers, SwiftData favorites, zoom transitions, iPad and accessibility support, unit and UI tests, CI |
 | [**Paisa**](https://github.com/VasuChovatiya/Paisa) | Offline-first expense tracker: SwiftData, Swift Charts, integer-paise money math, CSV export |
 | [**NetworkingKit**](https://github.com/VasuChovatiya/NetworkingKit) | Dependency-free Swift 6 networking package: typed endpoints, retries with backoff, a pagination actor, mock transport for tests |
+| [**ScratchReveal**](https://github.com/VasuChovatiya/ScratchReveal) | Scratch-card reveal in SwiftUI: a UIKit scratch view bridged with UIViewRepresentable, adjustable brush, live progress, haptics, CI |
 | [**iOS-Lab-Showcase**](https://github.com/VasuChovatiya/iOS-Lab-Showcase) | Recordings of 8 modern iOS tech demos: Concurrency, Charts, MapKit, Vision, Keychain, SwiftData + CloudKit, StoreKit 2, Widgets and Live Activities |
 
 ## 🧰 Tech stack

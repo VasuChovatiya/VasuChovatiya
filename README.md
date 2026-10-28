@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Vasu Chovatiya, iOS Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0D96F6&center=true&vCenter=true&width=620&lines=4%2B+years+building+iPhone%2C+iPad+%26+Mac+apps;15%2B+apps+shipped+to+the+App+Store;One+app+with+5M%2B+downloads+and+4.8%E2%98%85;SwiftUI+%C2%B7+UIKit+%C2%B7+Swift+Concurrency+%C2%B7+StoreKit+2" alt="4+ years building iPhone, iPad and Mac apps. 15+ apps shipped to the App Store." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0D96F6&center=true&vCenter=true&width=620&lines=4%2B+years+building+iPhone%2C+iPad+%26+Mac+apps;15%2B+apps+shipped+to+the+App+Store;One+app+with+5M%2B+downloads+and+4.8%E2%98%85;SwiftUI+%C2%B7+UIKit+%C2%B7+Swift+Concurrency+%C2%B7+StoreKit+2;Vision+%C2%B7+Core+ML+%C2%B7+ARKit+%C2%B7+AVFoundation;MapKit+%C2%B7+WeatherKit+%C2%B7+PhotoKit+%C2%B7+Contacts;CryptoKit+%C2%B7+Keychain+%C2%B7+SwiftData+%C2%B7+CloudKit;WidgetKit+%C2%B7+Live+Activities+%C2%B7+Screen+Time+API" alt="4+ years building iPhone, iPad and Mac apps. 15+ apps shipped to the App Store. Works with SwiftUI, UIKit, Vision, Core ML, ARKit, MapKit, WeatherKit, CryptoKit, WidgetKit and more." />
 
 <br>
 
